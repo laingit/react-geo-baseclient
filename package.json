@@ -56,7 +56,7 @@
     "antd": "^3.19.8",
     "i18next": "^17.0.6",
     "i18next-browser-languagedetector": "^3.0.1",
-    "i18next-xhr-backend": "^3.0.0",
+    "i18next-xhr-backend": "^3.1.0",
     "moment": "^2.24.0",
     "ol": "^5.3.3",
     "react": "^16.8.6",
