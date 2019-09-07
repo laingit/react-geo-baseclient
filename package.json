@@ -79,7 +79,7 @@
     "@babel/polyfill": "^7.6.0",
     "@babel/preset-env": "^7.6.0",
     "@babel/preset-react": "^7.0.0",
-    "@babel/preset-typescript": "^7.3.3",
+    "@babel/preset-typescript": "^7.6.0",
     "@types/expect-puppeteer": "^3.3.1",
     "@types/i18next": "^12.1.0",
     "@types/jest": "^24.0.15",
