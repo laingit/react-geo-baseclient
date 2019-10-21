@@ -95,7 +95,7 @@
     "@types/react-redux": "^7.1.2",
     "@types/redux-logger": "^3.0.7",
     "@types/validator": "^10.11.3",
-    "@types/webpack": "^4.39.1",
+    "@types/webpack": "^4.39.5",
     "babel-eslint": "^10.0.3",
     "babel-jest": "^24.9.0",
     "babel-loader": "^8.0.5",
