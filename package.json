@@ -124,7 +124,7 @@
     "http-server": "^0.11.1",
     "interpolate-html-plugin": "^3.0.0",
     "jest": "^24.9.0",
-    "jest-canvas-mock": "^2.1.1",
+    "jest-canvas-mock": "2.1.2",
     "jest-cli": "^24.9.0",
     "jest-diff": "^24.9.0",
     "jest-environment-node": "^24.9.0",
